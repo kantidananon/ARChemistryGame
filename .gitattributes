@@ -1,0 +1,8 @@
+.pdf filter=lfs diff=lfs merge=lfs -text
+.apk filter=lfs diff=lfs merge=lfs -text
+Symbol.pdf filter=lfs diff=lfs merge=lfs -text
+Target filter=lfs diff=lfs merge=lfs -text
+TargetSymbol.pdf filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
+*.rar filter=lfs diff=lfs merge=lfs -text
